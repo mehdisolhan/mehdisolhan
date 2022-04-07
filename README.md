@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Mehdi.
 
-- 💻 I'm <strong>Front-end Developer</strong> at Sebit Education and Information Technologies Inc. currently based in <strong>Ankara, Turkey</strong>
-- 🌱 I’m currently working and learning <strong>React</strong> with <strong>TypeScript</strong>.
+- 💻 I'm <strong>Frontend Developer</strong> at Tav Technologies.
+- 🚧 I’m currently working and learning on <strong>VueJs</strong>.
 - 👀 I’m interested in software development life cycles, clean code and algorithms.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-solhan-4b9383139/)
 
