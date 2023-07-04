@@ -3,7 +3,7 @@
 - 💻 I'm <strong>Frontend Developer</strong> at Tav Technologies.
 - 🚧 I’m currently working and learning on <strong>VueJs</strong>.
 - 👀 I’m interested in software development life cycles, clean code and algorithms.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdisolhan/)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mehdisolhan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 
 ## 🚀 Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -27,8 +27,6 @@
 ## 🐾 Next Steps
 - 📊 Using JavaScript test libraries like Jest, Mocha etc.
 - 📫 Blogging about what I learned
-- 💭 Developing an application with the <strong>MERN</strong> stack
-- 📱 Developing <strong>Mobile</strong> application with <strong>React Native</strong>
 
 <!---
 mehdisolhan/mehdisolhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
